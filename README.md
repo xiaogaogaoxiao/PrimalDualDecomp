@@ -1,6 +1,6 @@
 # PrimalDualDecomp
 This code (and data) accompanies the paper 
-"Image deblurring by primal-dual operator splitting"  
+"Primal-dual decomposition by operator splitting and applications to image deblurring"  
 by Daniel O'Connor and Lieven Vandenberghe
 (www.seas.ucla.edu/~vandenbe/publications).
 
